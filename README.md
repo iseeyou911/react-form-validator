@@ -1,2 +1,2 @@
 # react-form-validator
-Ultimate validator for ReactJs forms
+The Ultimate Validator for ReactJs Forms
